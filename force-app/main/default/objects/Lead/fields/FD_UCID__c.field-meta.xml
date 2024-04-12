@@ -4,7 +4,7 @@
     <description>FD&#39;s unique Identification for a given person&#39;s record in their source data</description>
     <externalId>false</externalId>
     <label>FD UCID</label>
-    <length>50</length>
+    <length>40</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
